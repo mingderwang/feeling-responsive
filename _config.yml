@@ -25,7 +25,7 @@ author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://http://happy-goldfish.cloudvent.net/'
+url: 'http://happy-goldfish.cloudvent.net/'
 baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
