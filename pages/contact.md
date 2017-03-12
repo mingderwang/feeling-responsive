@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "Contact"
+title: "聯絡我們"
 meta_title: "Contact and use our contact form"
 subheadline: "Wufoo-powered contact forms"
 teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+如果你想得到免費諮詢, 請聯絡我們 0910-006-662 [Log4analytics.com][1]. 
 
-
- [1]: http://www.wufoo.com/
+ [1]: http://log4analytics.com/
